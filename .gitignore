@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Environment variables
+# .env
+
+# Public files
+public/
+
+# Uploads files
+uploads/
+
+# Logs (Keep logs local, not in Git)
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+debug.log
+error.log
+output.log
+
+# Configuration files
+config.js
+config.json
+config.yaml
+config.yml
+
+# Temporary files
+.tmp/
+dist/
+build/
+.cache/
+
+# IDE files
+.idea/
+.vscode/
